@@ -72,7 +72,9 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 - ![Prisma](https://img.shields.io/badge/Prisma-%2300784C.svg?style=for-the-badge&logo=prisma&logoColor=white)  
 - ![AR/VR](https://img.shields.io/badge/AR/VR-%230073B3.svg?style=for-the-badge&logo=virtual-reality&logoColor=white)  
 - ![Artificial Intelligence](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![Wix](https://img.shields.io/badge/Wix-%23000000.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
@@ -80,11 +82,17 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 - 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)
 - 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/)
 - 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/)
-- 🔗 [Other Projects Coming Soon!]  
+- 🔗 [Other Personal Projects Coming Soon!]
 
 ---
 
+## 📂 Real-World Portfolio Highlights  
+- 🔗 [**MOZCON**](https://mozcon.online/)
+- 🔗 [**Caf LDA**](https://caf-lda.com/)
+- 🔗 [**Fellissimo Calbe**](https://fellissimo-calbe.de/)
+- 🔗 [Other Real-World Projects Coming Soon!]  
 
+---
 
 ## 🤝 Let’s Connect!  
 - 🌐 [LinkedIn](www.linkedin.com/in/darioaugustoreiser)  

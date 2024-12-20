@@ -51,11 +51,23 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 ---
 
 ## 🌱 Currently Learning  
-- **React.js, Express.js**  
-- **Supabase, Tailwind CSS**  
-- **TypeScript** (coming soon!)  
-- **Next.js, Three.js, React Three Fiber**  
-- **Python, TensorFlow, AR/VR, AI**  
+### **🔰 Basic Experience**  
+- ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+- ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
+- ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
+
+### **📖 Currently Learning**  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### **🌱 Planning to Learn**  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+- ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
+- ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+- ![AR/VR](https://img.shields.io/badge/AR/VR-%230073B3.svg?style=for-the-badge&logo=virtual-reality&logoColor=white)  
+- ![Artificial Intelligence](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
 
 ---
 

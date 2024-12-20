@@ -1,23 +1,19 @@
 # 👋🏾 Hey there, I'm **Dário Augusto Reiser**!
 
-**🌍 Swiss Mozambican | 👦🏾 Born in Pemba, Mozambique | 💻 Frontend Developer**  
+**🌍 Swiss Mozambican | 💻 Frontend Developer**  
 **🛠️ Crafting the web, one line of code at a time.**  
 
 ---
 
 ## 🎯 About Me  
 
-I’m a 22-year-old self-taught Frontend Developer with an inspiring journey filled with resilience, resourcefulness, and relentless curiosity. My love for web development began in high school in South Africa when I switched from Art to Computer Applications Technology (CAT) in Grade 11, which I admit was a little late, but I managed to power through.
+I’m a 22-year-old self-taught Frontend Developer with a journey defined by resilience, resourcefulness, and curiosity. My passion for coding began in 2019 during high school in South Africa when I switched from Art to Computer Applications Technology (CAT) in Grade 11. Despite starting late, I quickly developed a love for web development, beginning with basic HTML and CSS.
 
-Though my first steps in HTML and CSS were basic (think centering divs and styling a simple button😄), I discovered a deep passion for coding. After high school, in 2021, I decided to take it seriously. Despite facing interruptions from citizenship applications, relocations, and personal setbacks, I persevered and honed my skills.
+After high school in 2021, I committed to mastering web development, navigating interruptions like citizenship applications, relocations, and personal setbacks. One standout project was James Urban Bees, a personal portfolio project where I implemented features like dark mode, live search, and dynamic menus, all while I didn't even have basic knowledge of Javascript and yet I was able to achieve what I desired. My determination and problem-solving have always been my greatest strengths.
 
-One highlight was building James Urban Bees, where I implemented advanced JavaScript features like dark mode, live search and dynamic menus, all while barely understanding JavaScript at the time, and this was before ChatGPT was even a thing! I didn't even know how to work with variables properly! So it's safe to say my resourcefulness and determination have been and will always be my greatest allies.
+In 2022, I faced my toughest challenge. A complete distal tendon rupture (bicep tear). Surgery complications left me unable to move my hand for 4 months. Through intensive rehabilitation, I regained full movement and returned to coding in mid-2023, stronger than ever.
 
-In 2022, I faced my biggest challenge yet: a complete distal tendon rupture (a.k.a. the infamous bicep tear, something only 0.0012% of people worldwide will ever experience). Surgery complications caused nerve damage, and I couldn’t move my hand for 4 months. Thankfully, through rehabilitation, I regained full movement of my arm, hand, and individual fingers after 6 to 7 months. Through grit and determination, I relearned to use my hand and finally got back to coding in mid-2023.
-
-Now, I’m stronger than ever, mastering HTML, CSS, JavaScript, and more, while expanding my expertise into React.js, Node.js, and 3D web technologies.
-
-My aspiration is to become a Full Stack Developer, creating incredible 3D websites and immersive 3D web experiences, as well as building full-stack web apps and PWAs. In the future, I also hope to explore AI, Robotics Software and LLMs.  
+Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, Node.js, and 3D web technologies. My goal is to become a Full Stack Developer, building immersive 3D experiences and full-stack applications as well as PWAs.
 
 ---
 
@@ -48,10 +44,10 @@ My aspiration is to become a Full Stack Developer, creating incredible 3D websit
 
 ## 💡 What Makes Me Unique  
 
+- **🎖️ Competitive Edge:** Even though LinkedIn removed them I was in the top 5% in LinkedIn's CSS Assessment out of 1.5 million participants! This achievement is proof of my dedication to excellence and passion for perfecting the craft of front-end development.
 - **🔥 Resilience:** I’ve overcome major personal and professional hurdles, from serious injury to mastering complex web development technologies.
 - **🧠 Resourcefulness:** I built websites and implemented features without formal training. I am a self-taught developer who thrives on experimentation, learning from online resources like Udemy, Stack Overflow, and my own trial-and-error.
 - **🌟 User-Centric Vision:** I approach development from a user’s perspective, ensuring that every website and feature I create is intuitive, accessible, and enjoyable.
-- **🎖️ Competitive Edge:** Even though LinkedIn removed them I was in the top 5% in LinkedIn's CSS Assessment out of 1.5 million participants! This achievement is proof of my dedication to excellence and passion for perfecting the craft of front-end development.
 
 ---
 
@@ -87,6 +83,8 @@ My aspiration is to become a Full Stack Developer, creating incredible 3D websit
 - 🔗 [Other Projects Coming Soon!]  
 
 ---
+
+
 
 ## 🤝 Let’s Connect!  
 - 🌐 [LinkedIn](www.linkedin.com/in/darioaugustoreiser)  

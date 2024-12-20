@@ -80,14 +80,17 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 ## 📂 Portfolio Highlights
 
 ### Personal Portfolio Projects
-- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/). A recreation of a real-world project I worked on during my early stages of web development. The original site was built with WordPress, but I challenged myself to code it from scratch, implementing features like dark mode, category sorting, a side menu, sticky headers, live search, and other JavaScript concepts before I even knew JavaScript well. It was a rewarding experience and a testament to my determination to learn.
+- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/). This was one of my first personal web development projects, where I recreated the original James Beekeeping website using code. I added features like dark mode, category sorting, side menus, sticky headers, live search, and other JavaScript concepts. This project helped me deepen my understanding of JavaScript and web development.
 - 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/). A Mozambican car rental concept I created to practice CSS skills and creativity. This early-stage project focused on mastering absolute positioning, flexbox, and grid layouts to build a visually appealing and functional design.
 - 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/). A turning point in my journey where I advanced beyond the beginner stage, diving into SASS and significantly improving my JavaScript knowledge. This project included features like sliders, modals, a header that appears/disappears on scroll, a FAQ section, contact form validation, and smooth JavaScript transitions.
 
 ### Real-World Projects
+- 🔗 [**James Beekeeping**](https://fellissimo-calbe.de/). A South African bee removal and beekeeping company, formerly known as James Urban Bees. This project was a major update from their outdated site. I had to quickly learn WordPress to deliver a fully functional site, significantly improving the company's online presence.
 - 🔗 [**MOZCON**](https://mozcon.online/). A large construction company in the oil and gas sector, based in Pemba, Mozambique. Created a professional website to showcase their portfolio and establish their online presence.
 - 🔗 [**Caf LDA**](https://caf-lda.com/). A local construction and carpentry business in Pemba, Mozambique. Designed a website to highlight their services and organize their project portfolio.
 - 🔗 [**Fellissimo Calbe**](https://fellissimo-calbe.de/). A dog grooming business in Calbe Saale, Germany. Assisted in updating their previous website with a modern design and enhanced user experience.
+
+Feel free to check my LinkedIn to see all 8 of my projects.
 
 ---
 

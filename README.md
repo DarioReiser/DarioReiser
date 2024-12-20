@@ -11,13 +11,13 @@ I’m a 22-year-old self-taught Frontend Developer with an inspiring journey fil
 
 Though my first steps in HTML and CSS were basic (think centering divs and styling a simple button😄), I discovered a deep passion for coding. After high school, in 2021, I decided to take it seriously. Despite facing interruptions from citizenship applications, relocations, and personal setbacks, I persevered and honed my skills.
 
-One highlight was building James Urban Bees, where I implemented advanced JavaScript features like dark mode, live search, and dynamic menus, all while barely understanding JavaScript at the time, and this was before ChatGPT was even a thing! I didn't even know how to work with variables properly! So it's safe to say my resourcefulness and determination have been and will always be my greatest allies.
+One highlight was building James Urban Bees, where I implemented advanced JavaScript features like dark mode, live search and dynamic menus, all while barely understanding JavaScript at the time, and this was before ChatGPT was even a thing! I didn't even know how to work with variables properly! So it's safe to say my resourcefulness and determination have been and will always be my greatest allies.
 
 In 2022, I faced my biggest challenge yet: a complete distal tendon rupture (a.k.a. the infamous bicep tear, something only 0.0012% of people worldwide will ever experience). Surgery complications caused nerve damage, and I couldn’t move my hand for 4 months. Thankfully, through rehabilitation, I regained full movement of my arm, hand, and individual fingers after 6 to 7 months. Through grit and determination, I relearned to use my hand and finally got back to coding in mid-2023.
 
 Now, I’m stronger than ever, mastering HTML, CSS, JavaScript, and more, while expanding my expertise into React.js, Node.js, and 3D web technologies.
 
-My aspiration is to become a Full Stack Developer, creating incredible 3D websites and immersive 3D web experiences, as well as building full-stack web apps and PWAs. In the future, I also hope to explore AI and LLMs (Large Language Models).  
+My aspiration is to become a Full Stack Developer, creating incredible 3D websites and immersive 3D web experiences, as well as building full-stack web apps and PWAs. In the future, I also hope to explore AI, Robotics Software and LLMs.  
 
 ---
 
@@ -80,15 +80,17 @@ My aspiration is to become a Full Stack Developer, creating incredible 3D websit
 
 ---
 
-## 📂 Portfolio Highlights  
-- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)  
+## 📂 Personal Portfolio Highlights  
+- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)
+- 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/)
+- 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/)
 - 🔗 [Other Projects Coming Soon!]  
 
 ---
 
 ## 🤝 Let’s Connect!  
 - 🌐 [LinkedIn](www.linkedin.com/in/darioaugustoreiser)  
-- 📧 Email: dario.reiser@yourdomain.com  
+- 📧 Email: dario.reiser@gmail.com  
 
 🚀 **Let’s build something amazing together!**  
 

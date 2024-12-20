@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Dário Augusto Reiser**!  
 
-**🌍 Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Web Developer**  
+**🌍 Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Frontend Developer**  
 **🛠️ Crafting the web, one line of code at a time.**  
 
 ---

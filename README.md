@@ -69,24 +69,21 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 - ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
 - ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 - ![Prisma](https://img.shields.io/badge/Prisma-%2300784C.svg?style=for-the-badge&logo=prisma&logoColor=white)  
-- ![AR/VR](https://img.shields.io/badge/AR/VR-%230073B3.svg?style=for-the-badge&logo=virtual-reality&logoColor=white)  
-- ![Artificial Intelligence](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 📂 Project Highlights
 
-### 📂 Personal Portfolio Projects
+### Personal Portfolio Projects
 - 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)
 - 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/)
 - 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/)
 - 🔗 [Other Personal Projects Coming Soon!]
 
-### 📂 Real-World Projects
+### Real-World Projects
 - 🔗 [**MOZCON**](https://mozcon.online/)
 - 🔗 [**Caf LDA**](https://caf-lda.com/)
 - 🔗 [**Fellissimo Calbe**](https://fellissimo-calbe.de/)

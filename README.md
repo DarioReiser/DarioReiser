@@ -1,7 +1,9 @@
 # 👋 Hello, I'm **Dário Augusto Reiser**!  
 
-**🌍 :switzerland: Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Frontend Developer**  
+**🌍 Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Frontend Developer**  
 **🛠️ Crafting the web, one line of code at a time.**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Swiss Flag" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Mozambique.svg" alt="Mozambican Flag" width="30"/>
 
 ---
 

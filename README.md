@@ -80,9 +80,9 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 ## 📂 Portfolio Highlights
 
 ### Personal Portfolio Projects
-- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)
-- 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/)
-- 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/)
+- 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/). A recreation of a real-world project I worked on during my early stages of web development. The original site was built with WordPress, but I challenged myself to code it from scratch, implementing features like dark mode, category sorting, a side menu, sticky headers, live search, and other JavaScript concepts before I even knew JavaScript well. It was a rewarding experience and a testament to my determination to learn.
+- 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/). A Mozambican car rental concept I created to practice CSS skills and creativity. This early-stage project focused on mastering absolute positioning, flexbox, and grid layouts to build a visually appealing and functional design.
+- 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/). A turning point in my journey where I advanced beyond the beginner stage, diving into SASS and significantly improving my JavaScript knowledge. This project included features like sliders, modals, a header that appears/disappears on scroll, a FAQ section, contact form validation, and smooth JavaScript transitions.
 
 ### Real-World Projects
 - 🔗 [**MOZCON**](https://mozcon.online/). A large construction company in the oil and gas sector, based in Pemba, Mozambique. Created a professional website to showcase their portfolio and establish their online presence.

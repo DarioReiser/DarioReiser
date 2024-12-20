@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Dário Augusto Reiser**!  
 
-**🌍 Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Frontend Developer**  
+**🌍🇨🇭 Swiss Mozambican | 🇲🇿 Born in Pemba, Mozambique | 💻 Frontend Developer**  
 **🛠️ Crafting the web, one line of code at a time.**  
 
 ---
@@ -43,10 +43,10 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 
 ## 💡 What Makes Me Unique  
 
-- **🔥 Resilience:** Overcame significant personal and professional challenges, from a major injury to mastering complex technologies.  
-- **🧠 Resourcefulness:** I built functional websites and features without formal training, I am fully self-taught, relying on intuition, experimentation, and a lot of Udemy and Stack Overflow!  
-- **🌟 User-Centric Vision:** As a user-turned-developer, I design solutions that truly enhance user experience and always keep user satisfaction in mind.  
-- **🎖️ Competitive Edge:** Top **5% in LinkedIn's CSS Assessment** out of 1.5 million participants! An achievement I am very proud of!
+- **🔥 Resilience:** I’ve overcome major personal and professional hurdles, from serious injury to mastering complex web development technologies.
+- **🧠 Resourcefulness:** I built websites and implemented features without formal training. I am a self-taught developer who thrives on experimentation, learning from online resources like Udemy, Stack Overflow, and my own trial-and-error.
+- **🌟 User-Centric Vision:** I approach development from a user’s perspective, ensuring that every website and feature I create is intuitive, accessible, and enjoyable.
+- **🎖️ Competitive Edge:** Even though LinkedIn removed them I was in the top 5% in LinkedIn's CSS Assessment out of 1.5 million participants! This achievement is proof of my dedication to excellence and passion for perfecting the craft of front-end development.
 
 ---
 
@@ -78,8 +78,7 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 ---
 
 ## 🤝 Let’s Connect!  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
+- 🌐 [LinkedIn](www.linkedin.com/in/darioaugustoreiser)  
 - 📧 Email: dario.reiser@yourdomain.com  
 
 🚀 **Let’s build something amazing together!**  

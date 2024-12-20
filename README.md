@@ -63,7 +63,7 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 ### **📖 Currently Learning**  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-### **🌱 Planning to Learn**  
+### **🌱 Planning to Learn**
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 - ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
 - ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
@@ -72,6 +72,9 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 - ![AR/VR](https://img.shields.io/badge/AR/VR-%230073B3.svg?style=for-the-badge&logo=virtual-reality&logoColor=white)  
 - ![Artificial Intelligence](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+- ![Prisma](https://img.shields.io/badge/Prisma-%2300784C.svg?style=for-the-badge&logo=prisma&logoColor=white)  
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
@@ -89,7 +92,7 @@ Now, I’m stronger than ever, mastering **HTML, CSS, JavaScript**, and more, wh
 
 --- 
 
-### **Udemy Certificates & Completed Courses**
+### **🖥️ Udemy Certificates & Completed Courses**
 
 If you're curious about the courses I've completed to ensure my knowledge is of the highest quality, here’s a list of the certificates I've earned. These courses have not only taught me core web development skills but also included hands-on projects that solidified my understanding and practical application of the concepts.
 

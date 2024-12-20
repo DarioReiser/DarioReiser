@@ -35,7 +35,9 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 - ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-- ![Parcel](https://img.shields.io/badge/Parcel-%23F1C40F.svg?style=for-the-badge&logo=parcel&logoColor=white)  
+- ![Parcel](https://img.shields.io/badge/Parcel-%23F1C40F.svg?style=for-the-badge&logo=parcel&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![Wix](https://img.shields.io/badge/Wix-%23000000.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 ### **Third-Party Tools & Integrations**  
 - ✅ I can work with third-party tools like **Flickity**, **Formspree**, **FormSubmit**, and other popular solutions to enhance user experience and integrate external functionalities seamlessly.
@@ -73,20 +75,18 @@ Today, I’m proficient in HTML, CSS, JavaScript, and expanding into React.js, N
 - ![AR/VR](https://img.shields.io/badge/AR/VR-%230073B3.svg?style=for-the-badge&logo=virtual-reality&logoColor=white)  
 - ![Artificial Intelligence](https://img.shields.io/badge/AI-%23000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-- ![Wix](https://img.shields.io/badge/Wix-%23000000.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
-## 📂 Personal Portfolio Highlights  
+## 📂 Project Highlights
+
+### 📂 Personal Portfolio Projects
 - 🔗 [**James Urban Bees**](https://james-urban-bees.netlify.app/)
 - 🔗 [**NIZL Car Rentals**](https://nizl-car-rentals.netlify.app/)
 - 🔗 [**Elysium Resort**](https://elysium-resort.netlify.app/)
 - 🔗 [Other Personal Projects Coming Soon!]
 
----
-
-## 📂 Real-World Portfolio Highlights  
+### 📂 Real-World Projects
 - 🔗 [**MOZCON**](https://mozcon.online/)
 - 🔗 [**Caf LDA**](https://caf-lda.com/)
 - 🔗 [**Fellissimo Calbe**](https://fellissimo-calbe.de/)

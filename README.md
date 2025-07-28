@@ -7,7 +7,7 @@
 
 ## 🎯 About Me  
 
-I’m a 22-year-old self-taught Frontend Developer with a journey defined by resilience, resourcefulness, and curiosity. My passion for coding began in 2019 during high school in South Africa when I switched from Art to Computer Applications Technology (CAT) in Grade 11. Despite starting late, I quickly developed a love for web development, beginning with foundational HTML and CSS.
+I’m a 23-year-old self-taught Frontend Developer with a journey defined by resilience, resourcefulness, and curiosity. My passion for coding began in 2019 during high school in South Africa when I switched from Art to Computer Applications Technology (CAT) in Grade 11. Despite starting late, I quickly developed a love for web development, beginning with foundational HTML and CSS.
 
 After high school in 2021, I committed to mastering web development, navigating interruptions like citizenship applications, relocations, and personal setbacks. One standout project was James Urban Bees, a personal portfolio project where I implemented features like dark mode, live search, and dynamic menus. Despite very limited JavaScript knowledge, I successfully implemented the desired features. My determination and problem-solving have always been my greatest strengths.
 
